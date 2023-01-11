@@ -1,9 +1,0 @@
-08-01-2023 23:36:39.304 [main] INFO  c.r.elkdemo.ElkDemoApplicationTests.logStarting - Starting ElkDemoApplicationTests using Java 11.0.5 on nb-mkopp-mac with PID 2229 (started by mkopp in /Users/mkopp/idea/workspace/elk-demo)
-08-01-2023 23:36:39.305 [main] INFO  c.r.elkdemo.ElkDemoApplicationTests.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
-08-01-2023 23:36:43.927 [main] INFO  c.r.elkdemo.ElkDemoApplicationTests.logStarted - Started ElkDemoApplicationTests in 5.506 seconds (JVM running for 7.958)
-11-01-2023 00:21:40.993 [main] INFO  c.r.elkdemo.ElkDemoApplicationTests.logStarting - Starting ElkDemoApplicationTests using Java 11.0.5 on nb-mkopp-mac with PID 37990 (started by mkopp in /Users/mkopp/idea/workspace/elk-demo)
-11-01-2023 00:21:40.996 [main] INFO  c.r.elkdemo.ElkDemoApplicationTests.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
-11-01-2023 00:21:43.772 [main] INFO  c.r.elkdemo.ElkDemoApplicationTests.logStarted - Started ElkDemoApplicationTests in 3.633 seconds (JVM running for 5.938)
-11-01-2023 00:36:50.289 [main] INFO  c.r.elkdemo.ElkDemoApplicationTests.logStarting - Starting ElkDemoApplicationTests using Java 11.0.5 on nb-mkopp-mac with PID 39024 (started by mkopp in /Users/mkopp/idea/workspace/elk-demo)
-11-01-2023 00:36:50.291 [main] INFO  c.r.elkdemo.ElkDemoApplicationTests.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
-11-01-2023 00:36:54.305 [main] INFO  c.r.elkdemo.ElkDemoApplicationTests.logStarted - Started ElkDemoApplicationTests in 4.697 seconds (JVM running for 7.861)
